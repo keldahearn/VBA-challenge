@@ -15,8 +15,8 @@ Total Volume columns.  This is an even greater summary of the new values calcula
 
 ### Files
 
-* Multiple_year_stock_data.xlsm (data set used in this example)
-* Stock Market code.txt  (run this VB script to process data as described above)
+* StockMarket.bas  (run this VB script to process data as described above)
+* StockMarket.txt (text version of VB script)
 * Screen Shots for Excel 2018-2020 data (3) (screenshots of the three sheets after script was run)
 
 ### Stock Market Analyst
